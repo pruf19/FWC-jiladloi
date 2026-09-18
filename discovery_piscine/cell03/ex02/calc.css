@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.calculator {
+    display: flex;
+    gap: 10px;
+}
+
+input, select {
+    padding: 5px;
+    font-size: 16px;
+}
